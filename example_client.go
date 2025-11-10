@@ -9,7 +9,7 @@ import (
 	"time"
 )
 
-const baseURL = "http://localhost:3006"
+const baseURL = "http://localhost:3000"
 
 // Client represents the example client
 type Client struct {
